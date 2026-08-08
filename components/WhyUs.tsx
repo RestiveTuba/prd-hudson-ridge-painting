@@ -12,7 +12,7 @@ const points = [
   {
     title: "We answer the phone",
     /* REPLACE: Bullet 1 detail */
-    body: "Real person, every time. No hold music, no callback queues. Call us and we pick up.",
+    body: "Call and a real person picks up. Every time.",
   },
   {
     title: "Upfront pricing, no surprises",

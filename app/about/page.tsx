@@ -65,14 +65,13 @@ export default function AboutPage() {
           <div className="max-w-3xl mx-auto px-5 sm:px-8">
             <p className="font-body text-warm-gray text-lg leading-relaxed">
               {config.businessName} has been painting homes across {serviceArea()} for{" "}
-              {yearsLabel().toLowerCase()}. What started as a single crew doing interior
-              work for neighbors has grown into a full-service painting company,
-              handling interior, exterior, and cabinet refinishing, without losing the
-              show-up-when-we-say-we-will reputation that got us here.
+              {yearsLabel().toLowerCase()}. We started with one crew painting for neighbors.
+              Now we handle interior, exterior, and cabinet refinishing across the whole
+              area, and we still show up when we say we will.
             </p>
             <p className="mt-6 font-body text-warm-gray text-lg leading-relaxed">
-              Every estimate is written by {config.ownerFirstName || "our team"} or a
-              member of our crew who's actually seen the job, not a call center. And every project
+              {config.ownerFirstName || "Our team"} writes every estimate personally, after
+              someone from our crew has actually seen the job. No call center. Every project
               gets the same prep-first approach, whether it's one room or a full
               exterior repaint.
             </p>

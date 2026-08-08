@@ -112,7 +112,7 @@ export const siteConfig: SiteConfig = {
       ]
     },
     "Exterior Painting": {
-      "blurb": "Siding, trim, and shutters prepped and coated to hold up through Hudson Valley winters, not just look good on move-out day.",
+      "blurb": "Siding, trim, and shutters prepped and coated to survive Hudson Valley winters for years.",
       "included": [
         "Pressure washing and scraping before any prep work starts",
         "Wood repair and caulking on trim, fascia, and soffits",
