@@ -34,7 +34,7 @@ export function Services() {
             <FadeIn key={i} delay={i * 0.07}>
               <ServiceCard
                 title={svc}
-                description={`Professional ${svc.toLowerCase()} services — licensed, insured, and done right the first time.`}
+                description={`Professional ${svc.toLowerCase()} services, licensed, insured, and done right the first time.`}
                 images={serviceImages[svc] ?? []}
                 slug={slugify(svc)}
               />

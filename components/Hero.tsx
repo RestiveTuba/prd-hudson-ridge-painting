@@ -76,7 +76,7 @@ export function Hero() {
           transition={{ duration: 0.65, delay: 0.22, ease: [0.22, 1, 0.36, 1] }}
           className="mt-5 font-body italic text-white/75 text-lg sm:text-xl md:text-2xl max-w-xl leading-snug"
         >
-          {primaryCity()}'s trusted contractor&nbsp;—
+          {primaryCity()}'s trusted contractor
           <br className="hidden sm:block" /> doing it right with {yearsLabel().toLowerCase()} in business.
         </motion.p>
 
@@ -93,7 +93,7 @@ export function Hero() {
             className="inline-flex items-center gap-3 bg-brand hover:bg-brand-dark text-white font-display font-bold uppercase tracking-wide text-base sm:text-lg px-7 py-4 transition-colors duration-200 group"
           >
             <Phone size={18} strokeWidth={2.5} className="group-hover:scale-110 transition-transform" />
-            Call Now — {config.phone}
+            Call Now: {config.phone}
           </a>
 
           {/* Secondary CTA — link to contact page */}

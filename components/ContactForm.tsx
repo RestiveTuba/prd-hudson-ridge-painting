@@ -174,7 +174,7 @@ export function ContactForm() {
                   We&apos;ll Be In Touch
                 </h3>
                 <p className="font-body text-warm-gray max-w-sm">
-                  Thanks — {config.ownerFirstName || "we"} will follow up soon during business hours.
+                  Thanks! {config.ownerFirstName || "We"} will follow up soon during business hours.
                   For urgent issues, call us directly.
                 </p>
                 <a

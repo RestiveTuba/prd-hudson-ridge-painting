@@ -78,7 +78,7 @@ export default async function ServiceDetailPage({ params }: Props) {
               className="mt-8 inline-flex items-center gap-3 bg-brand hover:bg-brand-dark text-white font-display font-bold uppercase tracking-wide text-base px-7 py-4 transition-colors duration-200"
             >
               <Phone size={18} strokeWidth={2.5} />
-              Call Now — {config.phone}
+              Call Now: {config.phone}
             </a>
           </div>
         </section>

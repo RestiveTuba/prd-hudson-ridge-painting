@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 const points = [
   {
     title: "Locally owned, locally accountable",
-    body: `We live and work in ${primaryTown()} — our name is on every job, so we don't cut corners.`,
+    body: `We live and work in ${primaryTown()}. Our name is on every job, so we don't cut corners.`,
   },
   {
     title: "Real prep, every time",
@@ -66,13 +66,13 @@ export default function AboutPage() {
             <p className="font-body text-warm-gray text-lg leading-relaxed">
               {config.businessName} has been painting homes across {serviceArea()} for{" "}
               {yearsLabel().toLowerCase()}. What started as a single crew doing interior
-              work for neighbors has grown into a full-service painting company —
-              interior, exterior, and cabinet refinishing — without losing the
+              work for neighbors has grown into a full-service painting company,
+              handling interior, exterior, and cabinet refinishing, without losing the
               show-up-when-we-say-we-will reputation that got us here.
             </p>
             <p className="mt-6 font-body text-warm-gray text-lg leading-relaxed">
               Every estimate is written by {config.ownerFirstName || "our team"} or a
-              member of our crew who's actually seen the job — not a call center. And every project
+              member of our crew who's actually seen the job, not a call center. And every project
               gets the same prep-first approach, whether it's one room or a full
               exterior repaint.
             </p>

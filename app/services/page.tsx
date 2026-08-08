@@ -49,7 +49,7 @@ export default function ServicesPage() {
                 <ServiceCard
                   key={svc}
                   title={svc}
-                  description={`Professional ${svc.toLowerCase()} services — licensed, insured, and done right the first time.`}
+                  description={`Professional ${svc.toLowerCase()} services, licensed, insured, and done right the first time.`}
                   images={serviceImages[svc] ?? []}
                   slug={slugify(svc)}
                 />

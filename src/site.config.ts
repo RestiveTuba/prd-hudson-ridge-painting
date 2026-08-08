@@ -98,9 +98,9 @@ export const siteConfig: SiteConfig = {
   },
   "serviceDetails": {
     "Interior Painting": {
-      "blurb": "Walls, ceilings, and trim finished with careful prep and a clean crew — no plastic-sheet chaos, no overspray.",
+      "blurb": "Walls, ceilings, and trim finished with careful prep and a clean crew. No plastic-sheet chaos, no overspray.",
       "included": [
-        "Full surface prep — patching, sanding, and caulking before a drop of paint goes on",
+        "Full surface prep: patching, sanding, and caulking before a drop of paint goes on",
         "Two coats of premium interior paint, ceilings and trim included",
         "Furniture moved and protected, floors covered, daily cleanup",
         "Color consultation if you're not sure what you want"
@@ -117,7 +117,7 @@ export const siteConfig: SiteConfig = {
         "Pressure washing and scraping before any prep work starts",
         "Wood repair and caulking on trim, fascia, and soffits",
         "Two coats of exterior-grade paint rated for the climate",
-        "Full cleanup — no chips or masking tape left behind"
+        "Full cleanup, no chips or masking tape left behind"
       ],
       "materials": [
         "100% acrylic exterior paints built for freeze-thaw cycles",
@@ -126,7 +126,7 @@ export const siteConfig: SiteConfig = {
       ]
     },
     "Cabinet Painting": {
-      "blurb": "A full kitchen refresh without the cost or mess of a remodel — sprayed finishes that look factory-built.",
+      "blurb": "A full kitchen refresh without the cost or mess of a remodel. Sprayed finishes that look factory-built.",
       "included": [
         "All doors and drawers removed, labeled, and finished off-site",
         "Degreasing, sanding, and priming for real adhesion",
