@@ -66,7 +66,7 @@ export const siteConfig: SiteConfig = {
   },
   "businessType": "contractor",
   "bookingUrl": "",
-  "businessLocation": "Beacon, NY",
+  "businessLocation": "Nyack, NY",
   "servicesMenu": [],
   "galleryPhotos": [],
   "heroImage": "https://images.pexels.com/photos/18326826/pexels-photo-18326826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=900&w=1400",
