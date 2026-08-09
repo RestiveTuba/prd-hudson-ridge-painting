@@ -69,10 +69,10 @@ export const siteConfig: SiteConfig = {
   "businessLocation": "Beacon, NY",
   "servicesMenu": [],
   "galleryPhotos": [],
-  "heroImage": "https://images.pexels.com/photos/16734519/pexels-photo-16734519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=900&w=1400",
+  "heroImage": "https://images.pexels.com/photos/18326826/pexels-photo-18326826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=900&w=1400",
   "whyUsImage": "https://images.pexels.com/photos/5691622/pexels-photo-5691622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "pexelsImages": [
-    "https://images.pexels.com/photos/16734519/pexels-photo-16734519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/18326826/pexels-photo-18326826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/5691622/pexels-photo-5691622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/6474471/pexels-photo-6474471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
@@ -84,7 +84,7 @@ export const siteConfig: SiteConfig = {
       "https://images.pexels.com/photos/5583116/pexels-photo-5583116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ],
     "Exterior Painting": [
-      "https://images.pexels.com/photos/16734519/pexels-photo-16734519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/18326826/pexels-photo-18326826.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/34975633/pexels-photo-34975633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/37818741/pexels-photo-37818741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "https://images.pexels.com/photos/34264478/pexels-photo-34264478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
