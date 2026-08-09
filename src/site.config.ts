@@ -60,40 +60,40 @@ export const siteConfig: SiteConfig = {
   "logoUrl": "",
   "notes": "",
   "images": {
-    "Interior Painting": "https://images.unsplash.com/photo-1615529182904-14819c35db37?w=600&h=400&fit=crop",
-    "Exterior Painting": "https://images.unsplash.com/photo-1560184897-0d3d3e9c2b9c?w=600&h=400&fit=crop",
-    "Cabinet Painting": "https://images.unsplash.com/photo-1556909114-44e3e70034e2?w=600&h=400&fit=crop"
+    "Interior Painting": "https://images.pexels.com/photos/34046207/pexels-photo-34046207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=400&w=600",
+    "Exterior Painting": "https://images.pexels.com/photos/34975633/pexels-photo-34975633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=400&w=600",
+    "Cabinet Painting": "https://images.pexels.com/photos/6835066/pexels-photo-6835066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=400&w=600"
   },
   "businessType": "contractor",
   "bookingUrl": "",
   "businessLocation": "Beacon, NY",
   "servicesMenu": [],
   "galleryPhotos": [],
-  "heroImage": "https://images.pexels.com/photos/6474328/pexels-photo-6474328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=900&w=1400",
+  "heroImage": "https://images.pexels.com/photos/16734519/pexels-photo-16734519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=900&w=1400",
   "whyUsImage": "https://images.pexels.com/photos/5691622/pexels-photo-5691622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
   "pexelsImages": [
-    "https://images.pexels.com/photos/6474328/pexels-photo-6474328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "https://images.pexels.com/photos/16734519/pexels-photo-16734519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/5691622/pexels-photo-5691622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "https://images.pexels.com/photos/6474471/pexels-photo-6474471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   ],
   "serviceImages": {
     "Interior Painting": [
       "https://images.pexels.com/photos/6474471/pexels-photo-6474471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/6474328/pexels-photo-6474328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/6489663/pexels-photo-6489663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/5691622/pexels-photo-5691622.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/34046207/pexels-photo-34046207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5798984/pexels-photo-5798984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/5583116/pexels-photo-5583116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ],
     "Exterior Painting": [
-      "https://images.pexels.com/photos/2098624/pexels-photo-2098624.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/8961067/pexels-photo-8961067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/6474471/pexels-photo-6474471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/6474328/pexels-photo-6474328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/16734519/pexels-photo-16734519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34975633/pexels-photo-34975633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/37818741/pexels-photo-37818741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/34264478/pexels-photo-34264478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ],
     "Cabinet Painting": [
-      "https://images.pexels.com/photos/6444368/pexels-photo-6444368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/6969831/pexels-photo-6969831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/6444370/pexels-photo-6444370.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "https://images.pexels.com/photos/6444263/pexels-photo-6444263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+      "https://images.pexels.com/photos/6835066/pexels-photo-6835066.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/6920631/pexels-photo-6920631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/8583860/pexels-photo-8583860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/4030055/pexels-photo-4030055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     ]
   },
   "serviceDetails": {

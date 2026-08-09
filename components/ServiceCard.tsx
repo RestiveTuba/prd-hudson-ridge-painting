@@ -47,7 +47,7 @@ export function ServiceCard({ title, description, images, slug }: ServiceCardPro
 
         {/* Dot indicators */}
         {images.length > 1 && (
-          <div className="absolute bottom-3 left-0 right-0 flex justify-center gap-1.5">
+          <div className="absolute bottom-3 left-0 right-0 z-20 flex justify-center gap-1.5">
             {images.map((_, i) => (
               <button
                 key={i}
@@ -70,14 +70,17 @@ export function ServiceCard({ title, description, images, slug }: ServiceCardPro
         <p className="font-body text-warm-gray leading-relaxed text-sm flex-1">
           {description}
         </p>
-        <Link
-          href={`/services/${slug}`}
-          className="mt-5 inline-flex items-center gap-1.5 font-body text-sm font-medium text-brand hover:text-brand-dark transition-colors group/link"
-        >
+        <span className="mt-5 inline-flex items-center gap-1.5 font-body text-sm font-medium text-brand transition-colors">
           Learn more
-          <span className="transition-transform group-hover/link:translate-x-1">→</span>
-        </Link>
+          <span className="transition-transform group-hover:translate-x-1">→</span>
+        </span>
       </div>
+
+      <Link
+        href={`/services/${slug}`}
+        className="absolute inset-0 z-10"
+        aria-label={`Learn more about ${title}`}
+      />
     </div>
   );
 }

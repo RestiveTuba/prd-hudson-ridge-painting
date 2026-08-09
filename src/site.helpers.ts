@@ -19,14 +19,8 @@ export function primaryTown() {
 export function primaryCity(): string {
   const loc = config.businessLocation;
   if (loc) {
-    const parts = loc.split(",");
-    if (parts.length >= 2) {
-      const city = parts[1].trim()
-        .replace(/\s+[A-Z]{2}\s+\d{5}(-\d{4})?$/, "")
-        .replace(/\s+[A-Z]{2}$/, "")
-        .trim();
-      if (city) return city;
-    }
+    const city = loc.split(",")[0].trim();
+    if (city) return city;
   }
   return config.towns[0] || "your area";
 }
